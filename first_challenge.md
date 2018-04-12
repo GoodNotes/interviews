@@ -12,10 +12,10 @@ Conflict Free Replicated Data Types (CRDTs) are data structures that power real 
 - https://hal.inria.fr/inria-00555588/PDF/techreport.pdf
 
 ### Deliverable
-**Implement a [LWW-Element-Set](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#LWW-Element-Set_(Last-Write-Wins-Element-Set)) CRDT with test cases.** It may be helpful to start your [reading here with sets](https://github.com/pfrazee/crdt_notes#sets). Test cases should be clearly written and document what aspect of CRDT they test.
+**Implement a [LWW-Element-Set](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type#LWW-Element-Set_(Last-Write-Wins-Element-Set)) CRDT with test cases.** 
 
-This challenge should take **no more than 2 hours**. If you take inspiration from other open source implementations of CRDTs, please attribute them properly by commenting which parts were inspired and linking to the original source.
+It may be helpful to start your [reading here with sets](https://github.com/pfrazee/crdt_notes#sets). Test cases should be clearly written and document what aspect of CRDT they test. This challenge should take **no more than 2 hours**. If you take inspiration from other open source implementations of CRDTs, please attribute them properly by commenting which parts were inspired and linking to the original source.
 
 
 ### Submission
-You'll be graded based on code quality and testing, and **you can use any language of choice**. Please email us a link to your repository on either [GitHub](github.com) or [BitBucket](bitbucket.com). If it's a private repository, pleaes share it to user `tpun` on either GitHub or BitBucket.
+You'll be graded based on code quality and test coverage, and **you can use any language of choice**. Please email us a link to your repository on either [GitHub](github.com) or [BitBucket](bitbucket.com). If it's a private repository, pleaes share it to user `tpun` on either GitHub or BitBucket.
