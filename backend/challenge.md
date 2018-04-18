@@ -38,4 +38,4 @@ It's suggested to allocate equal amounts of time to each part. If the assessment
 
 When evaluating, we are focusing on code quality, communication of decision making, and deployment practices within your code, and scaling experience with your answer. For this assessment, deploying on the production platform you're familiar with (AWS, Google Cloud, etc) is preferred over deploying to Heroku in order to display your deployment experience.
 
-Please email us a link to your repository on either [GitHub](github.com/gninterview) or [BitBucket](bitbucket.com/gninterview). If it's a private repository, pleaes share it to user `gninterview` on either GitHub or BitBucket.
+Please email us a link to your repository on either [GitHub](https://github.com/gninterview) or [BitBucket](https://bitbucket.com/gninterview). If it's a private repository, pleaes share it to user `gninterview` on either GitHub or BitBucket.
