@@ -5,9 +5,9 @@ We are hiring across the board at GoodNotes. Join us to do the best work of your
 ## Overview on our process:
 
 1. Phone interview
-2. [First take-home technical challenge](https://github.com/GoodNotes/interviews/blob/master/first_challenge.md)
+2. [First take-home technical challenge](crdt.md)
 3. Phone interview with a senior team member
-4. Another full-day take-home technical challenge that's specific to the role ([example](https://github.com/GoodNotes/interviews/blob/master/backend/challenge.md))
+4. Another full-day take-home technical challenge that's specific to the role ([example](mobile))
 5. Half-a-day in-person interview with us at our office (or virtually over video conference)
     1. Present your solution to our team
     2. 3 x 45-minute one-on-one with our other senior team members
