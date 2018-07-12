@@ -2,7 +2,7 @@
 
 ## Core Specifications:
 
-1. A colouring app lets users to color a page from its built in library. You can find samples of colouring pages from [here]().
+1. A colouring app lets users to color a page from its built in library. You can find samples of colouring pages from [here](colouring_pages_samples.zip).
 
 2. Users cannot add, remove or rearrange pages from the library.
 
