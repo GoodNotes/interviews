@@ -11,4 +11,4 @@ We love to work with product-minded mobile engineers that make sensible engineer
 2. Answer the questions in the [Public Library Challenge](../common/colouring.md#public-library-challenge) in the `README.md` file in your repository.
 
 ### Submission
-Please submit according to our [submission guideline](../common/submission.md).
+Please submit your solution according to our [submission guideline](../common/submission.md).
