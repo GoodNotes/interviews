@@ -8,13 +8,15 @@
 
 3. Colouring pages are always scaled to the screen and users cannot change the zoom factor after.
 
-4. Users can select from a set of predefined colours. Each stroke will colour the corresponding pixels by the selected colour.
+4. Users can select from a set of predefined colours. Each stroke will colour the touched pixels by the selected colour. Every pixel on the colouring pages is colourable.
 
 5. Users can select an eraser to remove the colour and clear the pixel from any colours that may have been painted on top of the pixel.
 
-6. Every stroke is saved automatically.
+6. Colouring progress should be saved automatically and persistent.
 
-7. You are free to make other product decisions as you see fit.
+7. The app should be architected using [model-view-viewmodel](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) pattern. [Reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) is optional but recommended.
+
+8. You are free to make other product decisions as you see fit.
 
 ### Public Library Challenge:
 
