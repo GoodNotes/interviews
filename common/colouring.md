@@ -1,6 +1,6 @@
 # GoodColours
 
-## Core Specifications:
+### Core Specifications:
 
 1. A colouring app lets users to color a page from its built in library. You can find samples of colouring pages from [here](colouring_pages_samples.zip).
 
@@ -16,14 +16,14 @@
 
 7. You are free to make other product decisions as you see fit.
 
-## Public Library Challenge:
+### Public Library Challenge:
 
 1. How would you modify the colouring app above to support a public library? All colouring pages in the public library are synced across all users. You can assume all instances of the app have the same public library and everyone can color over and delete others' pen strokes.
 
 2. How would you ensure the colouring app can support 1 million concurrent users coloring a single page in the public library?
 
 
-## Examples of some colouring apps:
+### Examples of some colouring apps:
 
 1. https://www.igeeksblog.com/best-coloring-apps-iphone-ipad/
 2. https://thedroidguy.com/2018/06/best-free-coloring-book-adults-android-app-1061442
