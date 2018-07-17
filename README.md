@@ -5,7 +5,7 @@ We are hiring across the board at GoodNotes. Join us to do the best work of your
 ## Overview on our process:
 
 1. Phone interview
-2. [First take-home technical challenge](crdt.md)
+2. [First take-home technical challenge](common/crdt.md)
 3. Phone interview with a senior team member
 4. Another full-day take-home technical challenge that's specific to the role ([example](mobile))
 5. Half-a-day in-person interview with us at our office (or virtually over video conference)
