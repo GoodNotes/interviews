@@ -1,8 +1,10 @@
 # Technical Interview Process at GoodNotes
 
-We are hiring across the board at GoodNotes. Join us to do the best work of your life.
+We are hiring across the board at GoodNotes. Check out what is like working with us at http://careers.goodnotes.com/
 
-## Overview on our process:
+Join us to do the best work of your life.
+
+## Overview on our interview process:
 
 1. Phone interview
 2. [First take-home technical challenge](common/crdt.md)
