@@ -1,6 +1,6 @@
 # Technical Interview Process at GoodNotes
 
-We are hiring across the board at GoodNotes. Check out what is like working with us at http://careers.goodnotes.com/
+We are hiring across the board at GoodNotes. Check out what is like working with us at https://www.goodnotes.com/careers/
 
 Join us to do the best work of your life.
 
