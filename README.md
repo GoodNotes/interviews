@@ -19,7 +19,7 @@ Join us to do the best work of your life.
         5. Optional happy hour drink with our team
     - If you are not local, we may do the first 2 steps over video conferencing before flying you into Hong Kong
 4. Work with the team (optional, 3 - 5 days)
-    - Inspired by the [trial week](https://www.sequoiacap.com/article/trial-week-our-hiring-secret/)*, our team would love to have a chance to work with you side by side on real work. We understand this may not be feasible for you so we make this trial week optional. We do believe interviews are both ways and we want to offer you a chance to work with us.
+    - Inspired by the [trial week](https://www.sequoiacap.com/article/trial-week-our-hiring-secret/)*, our team would love to have a chance to work with you side by side on real work. We understand this may not be feasible for you so we make this trial week optional. We do believe interviews are both ways and we want to offer you a chance to work with us before you commit the next few years with us.
     - We would ensure both sides have a clear expectation on the hiring package before we go into the trial week. Our goal is to be able to give you the offer in person at the end of the trial week. If you elect not to go through a trial week, we typically will have an offer ready to sign within 24 hours after your full day interview.
 
 
