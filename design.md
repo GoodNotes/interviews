@@ -1,4 +1,4 @@
-GoodNotes - Design Take-Home Challenge
+GoodNotes - Take-Home Challenge for Design Roles
 ===
 This is a design challenge to evaluate candidates interested in joining the team at GoodNotes. It is meant to be short (<4 hrs) and serve as a way for us to understand your approach on product design.
 
