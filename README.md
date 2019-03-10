@@ -22,7 +22,7 @@ Join us to do the best work of your life.
             - For software engineering roles, we are mainly interested in your thought process, not if you remember all the syntax or framework interfaces of the chosen programming languages.
         4. Optional happy hour drink with our team
     - If you are not local, we may do one more video conferencing before flying you into Hong Kong.
-    - We cover direct flight to Hong Kong in addition to 3 nights of hotel with a total budget of US$300.00.
+    - We cover any economy class direct flight to Hong Kong and 3 nights of hotel (~US$100/night for hotel).
 4. Work with the team (optional, 3 - 5 days)
     - Inspired by the [trial week](https://www.sequoiacap.com/article/trial-week-our-hiring-secret/)*, our team would love to have a chance to work with you side by side on real work. We ask you to use some of your vaction days from your current position and come work in our office for a few days. We understand this may not be feasible for you to take time off so we make this trial week optional.
     - We would also fly you into our office if needed and cover both your air ticket and accommodation. If you are eligible to work in Hong Kong, we would also compensate you by your current daily rates. If you do require a work visa, then we simply cannot compensate you at this point due to work visa restriction. However, we will give you a daily meal allowance to minimize your out-of-pocket expense. 
