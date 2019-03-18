@@ -13,7 +13,7 @@ Join us to do the best work of your life.
         - [Software Engineering Challenge](software-engineering.md)
         - [Design Challenge](design.md)
 3. Meet the founder and the team (6 hours)
-    - Full day in-person interview with us at our office
+    - Full day on-site interview with us at our office
         1. Meet our founder, Steven
         2. Meet the whole company over lunch.
             - As a way for the team to know you better, we ask you to talk about any personal projects you may have or anything you are passionate about (10 minutes).
@@ -22,3 +22,4 @@ Join us to do the best work of your life.
             - For software engineering roles, we are mainly interested in your thought process, not if you remember all the syntax or framework interfaces of the chosen programming languages.
     - If you are not local, we may do one more video conferencing before flying you into Hong Kong.
     - We cover any economy class direct flight to Hong Kong and 3 nights of hotel (~US$100/night for hotel).
+4. We will get back to you within 48 hours of your on-site interview with either an offer or reasons why we may not be a good fit for you.
