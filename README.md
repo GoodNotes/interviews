@@ -20,7 +20,6 @@ Join us to do the best work of your life.
             - Free lunch on us, of course.
         3. Three to four one-on-two interviews with our senior team members. We may ask you to work on a problem in person with your machine.
             - For software engineering roles, we are mainly interested in your thought process, not if you remember all the syntax or framework interfaces of the chosen programming languages.
-        4. Optional happy hour drink with our team
     - If you are not local, we may do one more video conferencing before flying you into Hong Kong.
     - We cover any economy class direct flight to Hong Kong and 3 nights of hotel (~US$100/night for hotel).
 4. Work with the team (optional, 3 - 5 days)
