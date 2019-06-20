@@ -12,6 +12,7 @@ Join us to do the best work of your life.
     - Depending on the role you applied, you would be ask to work on one of these take home challenges
         - [Software Engineering Challenge](software-engineering.md)
         - [Design Challenge](design.md)
+        - [Customer Support Cases Challenge](customer-support.md)
 3. Meet the founder and the team (6 hours)
     - Full day on-site interview with us at our office
         1. Meet our founder, Steven
