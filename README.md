@@ -13,6 +13,7 @@ Join us to do the best work of your life.
         - [Software Engineering Challenge](software-engineering.md)
         - [Design Challenge](design.md)
         - [Customer Support Cases Challenge](customer-support.md)
+        - [Office Manger Cases Challenge](office-manager.md)
 3. Meet the founder and the team (6 hours)
     - Full day on-site interview with us at our office
         1. Meet our founder, Steven
