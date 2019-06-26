@@ -29,12 +29,12 @@ Now its’ 9am, imagine you have the following tasks to complete today. Explain 
 * *Reply to an employee in Slack who is asking you about ways to claim insurance.*
 * *Restock the medical kit of office.*
 * *Restock the coffee bean, the founder is a big fan of coffee*
-* *Source for vendors to fix the water leakage problem in the main meeting room. *
-* *Book tickets and hotel for four employees going to an important and popular conference in San Francisco next week. *
+* *Source for vendors to fix the water leakage problem in the main meeting room.*
+* *Book tickets and hotel for four employees going to an important and popular conference in San Francisco next week.*
 * *Share employee information with travel agent for the offsite trip, as the deadline is today.*
 * *Seek three offers for our Christmas party, which is taking place on the 23rd and is a rather busy day for corporate events in the specific venues we are targeting.*
-* *Order work equipment for a new hire who is starting in two days time. *
-* *Prepare a the IR56F document for an ex-employee who has left the company 2 weeks ago. *
+* *Order work equipment for a new hire who is starting in two days time.*
+* *Prepare a the IR56F document for an ex-employee who has left the company 2 weeks ago.*
 * *Order roll-up banners which need to be printed and shipped by next week for an event we are sponsoring.*
 
 
