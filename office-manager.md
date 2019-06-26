@@ -46,7 +46,6 @@ An overseas business partner is coming to your office for a meeting with the fou
 2. Please draft a meeting confirmation email you would send them.  You can include all the information that you believe they need to have a pleasant stay.
 3.  What would you add if the founder instructed you to go the extra mile for their arrangements?
 
-** **
 *HR Tool Research*
 
 We are a team of 13 (11 onsite in Hong Kong, 2 working remotely), draft a comparison table with 3 HR tools that we can consider using to help us run our payroll smoothly.  Requested features: pay leaves management, personal information management.  
