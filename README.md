@@ -14,6 +14,7 @@ Join us to do the best work of your life.
         - [Design Challenge](design.md)
         - [Customer Support Cases Challenge](customer-support.md)
         - [Office Manager Cases Challenge](office-manager.md)
+        - [Quality Assurance Engineer Challenge](quality-assurance.md)
 3. Meet the founder and the team (6 hours)
     - Full day on-site interview with us at our office
         1. Meet our founder, Steven
