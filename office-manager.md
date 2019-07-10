@@ -46,12 +46,20 @@ An overseas business partner is coming to your office for a meeting with the fou
 2. Please draft a meeting confirmation email you would send them.  You can include all the information that you believe they need to have a pleasant stay.
 3.  What would you add if the founder instructed you to go the extra mile for their arrangements?
 
-*HR Tool Research*
+*Monthly Book Keeping*
 
-We are a team of 13 (11 onsite in Hong Kong, 2 working remotely), draft a comparison table with 3 HR tools that we can consider using to help us run our payroll smoothly.  Requested features: pay leaves management, personal information management.  
+You are doing monthly book keeping for the company, you need organise the following data into spreadsheets using Google Sheets.  Please record your screen while you are completing this assignment. 
+
+* *Educational reimbursements of HK$4,700*
+* *Approved employee business trip reimbursements of HK$2,122.10*
+* *Vendor expense of US$3,289.40*
+* *Wednesday team dinner reimbursements of HK$8,963.30*
+* *Coffee bean expense of $8,098*
+* *Sales revenue of US$70,723.01*
+* *Work machine expense of HK$26,199.30*
 
 
 ### Grading and Submission
 
-You’ll be graded on problem solving skills, organisation skills, communication skills, time management skills, flexibility and level of attention to details.  Please [email Vivien](mailto:vivien@goodnotes.com?subject=GoodNtoes) your submission in PDF format.  
+You’ll be graded on problem solving skills, organisation skills, communication skills, time management skills, flexibility and level of attention to details.  Please share the completed Take Home Test in a Google Folder to [careers@godonotes.com](mailto:careers@godonotes.com?subject=GoodNotes) 
 
