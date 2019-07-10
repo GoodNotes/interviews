@@ -11,10 +11,10 @@ Join us to do the best work of your life.
 2. Show us what you could build (2 - 4 hours)
     - Depending on the role you applied, you would be ask to work on one of these take home challenges
         - [Software Engineering Challenge](software-engineering.md)
-        - [Design Challenge](design.md)
-        - [Customer Support Cases Challenge](customer-support.md)
-        - [Office Manager Cases Challenge](office-manager.md)
-        - [Quality Assurance Engineer Challenge](quality-assurance.md)
+        - [Product Design Challenge](design.md)
+        - [Customer Support Case Challenge](customer-support.md)
+        - [Office Manager Case Challenge](office-manager.md)
+        - [Quality Assurance Challenge](quality-assurance.md)
 3. Meet the founder and the team (6 hours)
     - Full day on-site interview with us at our office
         1. Meet our founder, Steven
