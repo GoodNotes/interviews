@@ -6,15 +6,20 @@ Join us to do the best work of your life.
 
 ## Overview of our interview process:
 
-1. Tell us what you are passionate about (30 - 45 minutes)
-    - First phone interview with a senior team member
+1. Tell us what you are passionate about (30 minutes)
+    - First phone interview with a senior member from our Talents team
 2. Show us what you could build (2 - 4 hours)
-    - Depending on the role you applied, you would be ask to work on one of these take home challenges
+    - Depending on the role you applied, you would be asked to work on one of these take-home challenges
         - [Software Engineering Challenge](software-engineering.md)
         - [Product Design Challenge](design.md)
         - [Customer Support Case Challenge](customer-support.md)
         - [Office Manager Case Challenge](office-manager.md)
         - [Quality Assurance Challenge](quality-assurance.md)
+    - Exception may be given to candidates who have built significant and non-trivial products.
+4. Meet your hiring manager (1 hour)
+    - Second phone interview with your hiring manager and another senior team member
+    - You would have a chance to go through your take-home submission and other projects you have built.
+    - For engineering roles, we may also ask you to work on some live coding questions via screen share.
 3. Meet the founder and the team (6 hours)
     - Full day on-site interview with us at our office
         1. Meet our founder, Steven
@@ -23,6 +28,5 @@ Join us to do the best work of your life.
             - Free lunch on us, of course.
         3. Three to four one-on-two interviews with our senior team members. We may ask you to work on a problem in person with your machine.
             - For software engineering roles, we are mainly interested in your thought process, not if you remember all the syntax or framework interfaces of the chosen programming languages.
-    - If you are not local, we may do one more video conferencing before flying you into Hong Kong.
-    - We cover any economy class direct flight to Hong Kong and 3 nights of hotel (~US$100/night for hotel).
+    - For international candidates, we cover any economy class direct flight to Hong Kong and 3 nights of hotel (~US$100/night for hotel).
 4. We will get back to you within 48 hours of your on-site interview with either an offer or reasons why we may not be a good fit for you.
