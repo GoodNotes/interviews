@@ -15,7 +15,6 @@ Join us to do the best work of your life.
         - [Customer Support Case Challenge](customer-support.md)
         - [Office Manager Case Challenge](office-manager.md)
         - [Quality Assurance Challenge](quality-assurance.md)
-    - Exception may be given to candidates who have built significant and non-trivial products.
 4. Meet your hiring manager (1 hour)
     - Second phone interview with your hiring manager and another senior team member
     - You would have a chance to go through your take-home submission and other projects you have built.
