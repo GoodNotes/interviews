@@ -12,4 +12,4 @@ Design a calculator application targeted for user interface / graphic designers.
 We expect a description of your solution, with any sketches or wireframes that were used to arrive at your design. Any sketches of rejected ideas would also be useful to show your thought process. Please include at least one high fidelity UI mockup showing the important pieces of your solution.
 
 ### Grading & Submission
-You'll be graded based on creativity, story telling, and general product design capability. Please [email our designer Rodney](mailto:rodney@goodnotes.com?subject=GoodNotes) your submission in PDF format along with your design files in the respective format (PSD, Sketch, etc).
+You'll be graded based on creativity, story telling, and general product design capability. Please [email us](mailto:careers@goodnotes.com?subject=GoodNotes) your submission in PDF format along with your design files in the respective format (PSD, Sketch, etc).
