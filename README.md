@@ -13,7 +13,6 @@ Join us to do the best work of your life.
         - [Software Engineering Challenge](software-engineering.md)
         - [Product Design Challenge](design.md)
         - [Customer Support Case Challenge](customer-support.md)
-        - [Office Manager Case Challenge](office-manager.md)
         - [Quality Assurance Challenge](quality-assurance.md)
 4. Meet your hiring manager (1 hour)
     - Second phone interview with your hiring manager and another senior team member
