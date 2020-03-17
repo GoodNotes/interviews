@@ -1,6 +1,6 @@
-GoodNotes - Take-Home Challenge for Office Manager Roles
+GoodNotes - Take-Home Challenge for Office Administrator Roles
 ===
-Below, you will find a list of cases that Office Manager might be facing on a regular basis. It is meant to be short (<3 hrs) and serve as a way for the team to understand your approach on customer support.
+Below, you will find a list of cases that Office Administrator might be facing on a regular basis. It is meant to be short (<3 hrs) and serve as a way for the team to understand your approach on customer support.
 
 ### INSTRUCTIONS
 
