@@ -14,6 +14,7 @@ Join us to do the best work of your life.
         - [Senior Recruiter Challenge](recruiter.md)
         - [Customer Support Case Challenge](customer-support.md)
         - [Quality Assurance Challenge](quality-assurance.md)
+        - [Project Coordinator Challenge](project-coordinator.md)
 4. Meet your hiring manager (1 hour)
     - Second phone interview with your hiring manager and another senior team member
     - You would have a chance to go through your take-home submission and other projects you have built.
