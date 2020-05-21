@@ -11,10 +11,11 @@ Join us to do the best work of your life.
 2. Show us what you could build (2 - 4 hours)
     - Depending on the role you applied, you would be asked to work on one of these take-home challenges
         - [Software Engineering Challenge](software-engineering.md)
-        - [Senior Recruiter Challenge](recruiter.md)
+        - [Recruiter Challenge](recruiter.md)
         - [Customer Support Case Challenge](customer-support.md)
         - [Quality Assurance Challenge](quality-assurance.md)
         - [Project Coordinator Challenge](project-coordinator.md)
+        - [Digital Marketing Challenge](digitalmarketing.md)
 4. Meet your hiring manager (1 hour)
     - Second phone interview with your hiring manager and another senior team member
     - You would have a chance to go through your take-home submission and other projects you have built.
