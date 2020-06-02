@@ -12,7 +12,7 @@ We would like to launch GoodNotes app onto Google Play, what are the steps you w
 
 
 ### Deliverable
-Please draft a Work Breakdown Structure (Project Plan).  We recommend you to spend no more than 4 hours on this challenge.  We understand that it’s impossible to include every component, so please only include those that you think would be most relevant. 
+Please draft a Work Breakdown Structure (including but not limited to critical paths, moving parts and scope).  We recommend you to spend no more than 4 hours on this challenge.  We understand that it’s impossible to include every component, so please only include those that you think would be most relevant. 
 
 ### Grading & Submission
-We are not looking for right or wrong answers.  You’ll be graded based on how you approach the problem in terms of prioritisation, creativity and problem solving skills.  Please send your submission in pdf format to careers@goodnotes.com 
+You’ll be graded based on how you approach the problem in terms of prioritisation, creativity and problem solving skills.  Please send your submission in pdf format to careers@goodnotes.com 
