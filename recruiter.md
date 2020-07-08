@@ -15,4 +15,4 @@ Create a recruitment presentation for your favourite company to help them recrui
 We might ask you to go through the presentation with us.  The entire presentation should be 5-10 minutes long, supported by a deck, and allowing around 15 minutes for questions. We don’t expect you to put in more than 4 hours into preparing and creating the deck.
 
 ### Grading & Submission
-You’ll be graded on presentation skills, research skills, work culture sensitivity, prioritisation skills and audience-oriented mindset.  Please share the deck to careers@goodnotes.com We will arrange a time for presentation upon receiving the deck.  
+You’ll be graded on presentation skills, research skills, work culture sensitivity, prioritisation skills and audience-oriented mindset.  Please submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e). We may or may not arrange a time for presentation upon receiving the deck.  
