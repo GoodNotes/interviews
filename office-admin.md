@@ -54,4 +54,4 @@ You are doing monthly book-keeping for the company, you need organise the follow
 
 
 ### Grading & Submission
-You’ll be graded on problem solving skills, organisation skills, communication skills, time management skills, flexibility and level of attention to details.  Please share the completed Take Home Test in a Google Folder to [this email](mailto:careers@goodnotes.com?subject=GoodNotes).
+You’ll be graded on problem solving skills, organisation skills, communication skills, time management skills, flexibility and level of attention to details.  Please submit your assignment in a Google Folder [here](https://airtable.com/shr2eaeRTGbYJBI5e). 
