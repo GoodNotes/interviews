@@ -15,4 +15,4 @@ We would like to launch GoodNotes app onto Google Play, what are the steps you w
 Please draft a Roadmap (including but not limited to critical paths, moving parts and scope).  We recommend you to spend no more than 4 hours on this challenge.  We understand that it’s impossible to include every component, so please only include those that you think would be most relevant. 
 
 ### Grading & Submission
-You’ll be graded based on how you approach the problem in terms of prioritisation, creativity and problem solving skills.  Please send your submission in pdf format to careers@goodnotes.com 
+You’ll be graded based on how you approach the problem in terms of prioritisation, creativity and problem solving skills.  Please submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e).
