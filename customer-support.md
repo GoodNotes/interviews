@@ -49,4 +49,4 @@ A customer contacts our support team and mentions that she doesn't like the app 
  
 
 ### Grading & Submission
-You'll be graded based on product knowledge, hardware and operating system knowledge, written communication, abstract thinking, critical thinking and problem solving skills.  Please submit your assignment [here] (https://airtable.com/shr2eaeRTGbYJBI5e).
+You'll be graded based on product knowledge, hardware and operating system knowledge, written communication, abstract thinking, critical thinking and problem solving skills.  Please submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e).
