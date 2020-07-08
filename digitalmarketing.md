@@ -16,4 +16,4 @@ You're free to choose the format in which you want to deliver your take-home ass
 
 
 ### Grading & Submission
-Please send your submission to careers@goodnotes.com 
+Please submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e).
