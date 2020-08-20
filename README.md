@@ -15,12 +15,12 @@ Join us to do the best work of your life.
         - [Customer Support Case Challenge](customer-support.md)
         - [Quality Assurance Challenge](quality-assurance.md)
         - [Project Coordinator Challenge](project-coordinator.md)
-        - [Digital Marketing Challenge](digitalmarketing.md)
-4. Meet your hiring manager (1 hour)
+        - [Growth Challenge](growth.md)
+3. Meet your hiring manager (1 hour)
     - Second phone interview with your hiring manager and another senior team member
     - You would have a chance to go through your take-home submission and other projects you have built.
     - For engineering roles, we may also ask you to work on some live coding questions via screen share.
-3. Meet the founder and the team (6 hours)
+4. Meet the founder and the team (6 hours)
     - Full day on-site interview with us at our office
         1. Meet our founder, Steven
         2. Meet the whole company over lunch.
