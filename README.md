@@ -10,7 +10,8 @@ Join us to do the best work of your life.
     - First phone interview with a senior member from our Talents team
 2. Show us what you could build (2 - 4 hours)
     - Depending on the role you applied, you would be asked to work on one of these take-home challenges
-        - [Software Engineering/ Machine Learning Challenge](software-engineering.md)
+        - [Software Engineering](software-engineering.md)
+        - [Machine Learning Challenge](software-engineering.md)
         - [Recruiter Challenge](recruiter.md)
         - [Customer Support Case Challenge](customer-support.md)
         - [Quality Assurance Challenge](quality-assurance.md)
