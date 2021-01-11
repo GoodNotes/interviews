@@ -15,4 +15,4 @@ Please include just one polished high-fidelity UI mockup showing the most import
 ### Grading & Submission
 You'll be graded based on your critical thinking skills, creativity, story telling, and general product design capability. It’s okay to come up with interesting ideas that slightly deviate from the brief, as long as you provide a convincing rationale.
 
-Please submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e) in PDF format along with your design files in the respective format (Sketch, Figma, PSD, etc). Indicate your total time spent doing the assignment in the PDF.
+Please submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e) in PDF format along with your design files in the respective format (Sketch, Figma, PSD, etc). Please also indicate your total time spent doing the assignment in the PDF.
