@@ -6,8 +6,8 @@ Join us to do the best work of your life.
 
 ## Overview of our interview process:
 
-1. Tell us what you are passionate about (45 minutes)
-    - First voice call interview with a member from our Talents team
+1. Ask us any questions (15-30 minutes)
+    - Optional voice call interview with a member from our Talents team
 2. Show us what you could build (2 - 4 hours)
     - Depending on the role you applied, you would be asked to work on one of these take-home challenges
         - [Software Engineering](software-engineering.md)
@@ -15,13 +15,13 @@ Join us to do the best work of your life.
         - [Recruiter Challenge](recruiter.md)
         - [Customer Support Case Challenge](customer-support.md)
         - [Quality Assurance Challenge](quality-assurance.md)
-3. Meet your hiring manager (1 hour)
-    - Second video call interview with your hiring manager and another senior team member
+3. Meet your team members (1 - 2 hours)
+    - Second video call interview with your hiring manager and another team member
     - You would have a chance to go through your take-home submission and other projects you have built.
-    - For engineering roles, we may also ask you to work on some live coding questions via screen share.
-4. Meet the founder and the team (6 to 8 hours)
-    - Full day on-site interview with us at our office
-        1. Three to four one-on-two interviews with our team members. We may ask you to work on a problem in person with your machine.
+    - For engineering roles, we ask you to work on some live coding questions via screen share.
+4. Meet the founder and the team (3 - 6 hours)
+    - Half a day on-site interview with us at our office
+        1. Two to three one-on-two interviews with our team members. We may ask you to work on a problem in person with your machine.
         2. Meet the whole company over lunch.
             - As a way for the team to know you better, we ask you to talk about any personal projects you may have or anything you are passionate about (5-10 minutes).
             - Free lunch on us, of course.
