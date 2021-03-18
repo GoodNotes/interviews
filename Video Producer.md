@@ -1,4 +1,4 @@
-Video ContentProducer Take Home Challenge
+Video Content Producer Take Home Challenge
 ===
 This is a challenge to evaluate candidates interested in joining the GoodNotes team. It is meant to be fun and short (<4 hrs)
 and serve as a way for the team to understand your approach in tackling problems.
