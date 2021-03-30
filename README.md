@@ -11,6 +11,7 @@ Join us to do the best work of your life.
 2. Show us what you could build (2 - 4 hours)
     - Depending on the role you applied, you would be asked to work on a take home challenge we will send you by email. Some example of challenges we use:
         - [Recruiter Challenge](recruiter.md)
+        - [Software Engineering - Deprecated](software-engineering.md)
         - [Customer Support Case Challenge](customer-support.md)
         - [Quality Assurance Challenge](quality-assurance.md)
 3. Meet your team members & Get your hands dirty (~ 2 hours)
