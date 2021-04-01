@@ -6,7 +6,7 @@ GoodNotes - Challenge for Product Designer Roles Application
 ### Instructions
 
 * We'll invite candidates to record a case study walkthrough video. The video is expected to be *20* *minutes in duration*.
-* You DON’T have to edit out your stutters or add any motion graphic. Just a plain recording in your pajamas will do.
+* You DON’T have to edit out your stutters or add any motion graphic. Just a plain recording in your pyjamas will do.
 * You can submit your video recording here (https://airtable.com/shr2eaeRTGbYJBI5e), along with your case study slides in PDF format.
 * If you are having trouble uploading the video, you can paste a private Youtube link (https://support.google.com/youtube/answer/157177?co=GENIE.Platform%3DDesktop&hl=en), a Google Drive link (https://support.google.com/drive/answer/2494822?co=GENIE.Platform%3DDesktop&hl=en), or a Loom link (https://www.loom.com/) in the “Others” section.
 
@@ -18,7 +18,7 @@ GoodNotes - Challenge for Product Designer Roles Application
 
 ### Presentation Topics 
 
-1. A short self-introduction, and a high-level overview of one of your work.
+1. A short self-introduction, and a high-level overview of one piece of work.
 2. We want to understand:
     1. the goals of the project
     2. structure of the team you were a part of
