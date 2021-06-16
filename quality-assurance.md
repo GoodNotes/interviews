@@ -7,6 +7,7 @@ You’re joining a software company that is developing a **[worldwide popular ca
 ### Requirements
 
 The product manager and the design lead provide you with the following requirements for the calculator app:
+
 ![image (1)](https://user-images.githubusercontent.com/10492461/122173892-d18c4c80-ceb4-11eb-9b54-5ce405b44b94.png)
 
 * the app needs to run on all iOS devices using iOS 12 or higher
