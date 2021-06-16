@@ -32,7 +32,7 @@ Note: Please refer to [this app](https://apps.apple.com/app/calculator/id1069511
 
 You are asked to provide the following:
 1. A document to show the **entry and exit criteria** for QA on this project
-2. **Test cases* that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence**
+2. **Test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence
 
 Please complete the above two tasks as your take-home assignment. We don’t expect you to take longer than **4 hours** to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. When you’re done, submit your assignment [here](https://airtable.com/shr2eaeRTGbYJBI5e). Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
 
