@@ -22,11 +22,15 @@ The product manager and the design lead provide you with the following requireme
 * The app allows users to clear the entry
     * Users can clear the current entry and preserve the memory (previous entries)
     * Users can clear the current entry and also clear the memory from previous entries
-* The app lets users convert any entry from a percentage into a decimal number (divide by 100)
+* The app lets users convert any entry from a percentage into a decimal number using % button
 * The app allows users to copy the entry
 * Users can see which operator (+ - x ÷) is currently selected
 
-Note: Please refer to [this app](https://apps.apple.com/app/calculator/id1069511488) for the app behaviors
+### Notes / Tips:
+* Mentioned requirements can work together properly
+* Out of scope
+   * Apple Watch/Mac
+   * Questionable/unclear behaviors
 
 ### Deliverable
 
