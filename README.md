@@ -18,7 +18,7 @@ Join us to do the best work of your life.
     - Second video call interview with your future team member
     - You might be asked to work on a hands-on live challenge to showcase your skills, you might need to share your screen.
     - For Machine Learning roles, you will need to meet with both Engineering team and Machine Learning team. 
-4. Meet the founder and the team (3 - 5 hours)
+4. Meet the team (3 - 5 hours)
     - Half a day on-site video call interview with us at our office
         1. Two to three one-on-one interviews with our team members. We may ask you to work on a problem in person with your machine.
         2. Meet the cross-functional team members who work in your timezone.
