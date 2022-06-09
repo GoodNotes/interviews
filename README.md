@@ -15,7 +15,7 @@ Join us to do the best work of your life.
     - Video interview with members of the functional team you are applying to
     - Depending on the specific role, you might be asked to work on a hands-on challenge to showcase your skills, via screen share, or just go through a combination of competency and role-specific questions.
     - For Engineering roles specifically, this will consist of a combination of programming excercises 
-4. Meet the wider team (3 hours)
+4. Meet the wider team (2 hours)
     - Hong Kong*: Onsite interview with us at our office
     - UK/Remote: Virtual onsite interview with us via video call
         1. Two to three one-on-one interviews with our team members/hiring managers
@@ -23,4 +23,4 @@ Join us to do the best work of your life.
             - As a way for the team to know you better, we ask you to talk about any personal projects you may have or anything you are passionate about (5-10 minutes).
             - *Due to the current COVID-19 situation in Hong Kong, most interviews will be conducted remotely 
         
-- We aim to get back to you within 48 hours of your onsite interview with either an offer or reasons why we may not be a good fit for you
+- We aim to get back to you within 2-3 days of your final round interview with either an offer or reasons why we may not be a good fit for you
