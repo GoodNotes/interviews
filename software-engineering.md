@@ -1,8 +1,7 @@
-GoodNotes - Example of Technical Challenge - Deprecated
-
-We're using a new challenge, please contact us on careers@goodnotes.com if you want to take it! Don't submit this one, it is just an example of the kind of challenge you would have to face in our interview process.
+GoodNotes - Example of Technical Challenge
 
 ===
+
 This is an introductory coding challenge to evaluate candidates interested in joining the team at GoodNotes. It is meant to be fun and short (<2 hrs typically) and introduce some of the engineering challenges at GoodNotes.
 
 ### Introduction
