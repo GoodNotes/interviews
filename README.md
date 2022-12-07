@@ -10,7 +10,7 @@ Join us to do the best work of your life.
     - Optional call with a member of our Talent team to learn more about GoodNotes
 2. Showcase your expertise (2 - 4 hours depending on role)
     - Depending on the role you are applying for, you may be asked to work on a take-home challenge. This will be sent to you via email with clear instructions and grading guidelines.
-    - For Engineering roles specifically, we may conduct a 1-hour live coding interview instead of a take-home challenge
+    - For Engineering roles specifically, we may conduct a 50-min hackerrrank test instead of a take-home challenge
 3. Role-specific assessment (1 - 2 hours)
     - Video interview with members of the functional team you are applying to
     - Depending on the specific role, you might be asked to work on a hands-on challenge to showcase your skills, via screen share, or just go through a combination of competency and role-specific questions.
@@ -21,6 +21,5 @@ Join us to do the best work of your life.
         1. Two to three one-on-one interviews with our team members/hiring managers
         2. Opportunity to meet the cross-functional team members who work in your timezone
             - As a way for the team to know you better, we ask you to talk about any personal projects you may have or anything you are passionate about (5-10 minutes).
-            - *Due to the current COVID-19 situation in Hong Kong, most interviews will be conducted remotely 
         
 - We aim to get back to you within 2-3 days of your final round interview with either an offer or reasons why we may not be a good fit for you
