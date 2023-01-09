@@ -2,7 +2,7 @@ GoodNotes - Quality Assurance Take-home Challenge
 ===
 
 ### Introduction
-You’re joining a software company that is developing a **[worldwide popular calculator app](https://apps.apple.com/app/calculator/id1069511488) for iOS devices**. As the companies only QA person, it is your job to make sure that the app and every update to it fulfill the standards for quality before it is shipped to the App Store. Users heavily rely on the calculator app on a daily basis and small bugs in the core functionality can cause a lot of harm.
+You’re joining a software company that is developing a **[worldwide popular calculator app](https://apps.apple.com/app/calculator/id1069511488) for iOS devices**. As the company's only QA person, it is your job to make sure that the app and every update to it fulfill the standards for quality before it is shipped to the App Store. Users heavily rely on the calculator app on a daily basis and small bugs in the core functionality can cause a lot of harm.
 
 ### Requirements
 
