@@ -2,7 +2,7 @@ GoodNotes - Example of Technical Challenge
 
 ===
 
-This is an introductory coding challenge to evaluate candidates interested in joining the team at GoodNotes. It is meant to be fun and short (<2 hrs typically) and introduce some of the engineering challenges at GoodNotes.
+This is an introductory coding challenge to evaluate candidates interested in joining the team at GoodNotes. It is meant to be fun and short (<4 hrs typically) and introduce some of the engineering challenges at GoodNotes. This challenge has now been replaced with a short Hackerrank test, but we keep it here to give you and idea of some of the problems we like to solve and a core element of our technology.
 
 ### Introduction
 
