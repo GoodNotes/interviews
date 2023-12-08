@@ -1,4 +1,4 @@
-GoodNotes - Quality Assurance Take-home Challenge
+Goodnotes - Quality Assurance Take-home Challenge
 ===
 
 ### Introduction
@@ -10,7 +10,7 @@ The product manager and the design lead provide you with the following requireme
 
 ![image (1)](https://user-images.githubusercontent.com/10492461/122173892-d18c4c80-ceb4-11eb-9b54-5ce405b44b94.png)
 
-* the app needs to run on all iOS devices using iOS 12 or higher
+* the app needs to run on all iOS devices using iOS 15 or higher
 * Only portrait mode is in the scope for this project
 * the app allows users to do 4 basic calculations:
     * Addition
@@ -37,6 +37,7 @@ The product manager and the design lead provide you with the following requireme
 You are asked to provide the following:
 1. A document to show the **entry and exit criteria** for QA on this project
 2. **Test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence
+3. Test cases are expected in BDD format to prepare automation execution in the future.
 
 Please complete the above two tasks as your take-home assignment. We don’t expect you to take longer than **4 hours** to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
 
