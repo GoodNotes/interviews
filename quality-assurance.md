@@ -36,8 +36,8 @@ The product manager and the design lead provide you with the following requireme
 
 You are asked to provide the following:
 1. A document to show the **entry and exit criteria** for QA on this project
-2. **Test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence
-3. Test cases are expected in BDD format to prepare automation execution in the future.
+2. **Test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence (You may use your way of preference to organize your test cases)
+3. Present a few medium complexity test cases in BDD format to prepare automation execution in the future. (You may skip this if you had preference to use BDD format for all the test cases you created)
 
 Please complete the above two tasks as your take-home assignment. We don’t expect you to take longer than **4 hours** to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
 
