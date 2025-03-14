@@ -26,7 +26,7 @@ The product manager and the design lead provide you with the following requireme
 * The app allows users to copy the entry
 * Users can see which operator (+ - x ÷) is currently selected
 
-### Notes / Tips:
+### Notes / Tips
 * Mentioned requirements can work together properly
 * Out of scope
    * Apple Watch/Mac
@@ -41,5 +41,7 @@ You are asked to provide the following:
 
 Please complete the above two tasks as your take-home assignment. We don’t expect you to take longer than **4 hours** to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
 
-
+### Important Note on AI Tools
+* While we embrace AI tools for productivity in our daily work, for this assessment we ask that you complete the work without using AI tools to generate solutions. This helps us evaluate your foundational skills and problem-solving approach. Limited reference use is acceptable, but please note any AI assistance you do utilize.
+* Submissions that appear to be primarily AI-generated may result in disqualification. We appreciate your understanding as we strive to make the assessment process fair and effective.
 
