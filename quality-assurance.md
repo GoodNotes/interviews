@@ -1,47 +1,42 @@
-Goodnotes - Quality Assurance Take-home Challenge
+QE Domain Lead Interview Exercise: The Calculator App Refactor
 ===
 
 ### Introduction
-You’re joining a software company that is developing a **[worldwide popular calculator app](https://apps.apple.com/app/calculator/id1069511488) for iOS devices**. As the companies only QA person, it is your job to make sure that the app and every update to it fulfill the standards for quality before it is shipped to the App Store. Users heavily rely on the calculator app on a daily basis and small bugs in the core functionality can cause a lot of harm.
+You are joining the "Core Utilities" domain as a QE Domain Lead. Your first major initiative is overseeing the complete refactor of our worldwide popular **[worldwide popular calculator app](https://apps.apple.com/app/calculator/id1069511488) for iOS devices**. This app has millions of daily active users who rely on it for everything from splitting bills to complex field engineering calculations.
 
-### Requirements
+The engineering team is moving to a **Continuous Delivery** model (releasing weekly). Historically, the team relied on manual regression testing at the end of sprints. Your goal is to transition the team to **Modern Quality Engineering practices**, embedding quality ownership within the development squad and implementing a Shift-Left approach.
 
-The product manager and the design lead provide you with the following requirements for the calculator app:
+### Product Requirements (The "Scope")
+The Product Manager has outlined the MVP for the refactored app.
+- **Platform**: iOS 16+ (SwiftUI codebase).
+- **Core Functions**: Add, Subtract, Multiply, Divide (supporting decimals, negative numbers, and percentages).
+- **Memory Logic**: "Clear Entry" (CE) clears the current input; "All Clear" (AC) resets the full state.
+- **Accessibility**: Must be fully VoiceOver compatible (WCAG AA standard).
+- **Performance**: App launch time must be under 0.8 seconds.
 
-![image (1)](https://user-images.githubusercontent.com/10492461/122173892-d18c4c80-ceb4-11eb-9b54-5ce405b44b94.png)
+### The Challenge
+We are **not** looking for a list of 100 manual test cases. We want to understand how you think, how you strategize, and how you enable the team to build high-quality software efficiently.
 
-* the app needs to run on all iOS devices using iOS 15 or higher
-* Only portrait mode is in the scope for this project
-* the app allows users to do 4 basic calculations:
-    * Addition
-    * Subtraction
-    * Multiplication
-    * Division
-* The app supports decimals
-* The app allows users to calculate with negative and positive algebraic signs
-* The app allows users to clear the entry
-    * Users can clear the current entry and preserve the memory (previous entries)
-    * Users can clear the current entry and also clear the memory from previous entries
-* The app lets users convert any entry from a percentage into a decimal number using % button
-* The app allows users to copy the entry
-* Users can see which operator (+ - x ÷) is currently selected
+### Deliverables
+Please prepare a document or presentation covering the following three sections. We expect you to spend no more than **3-4** hours on this.
+
+## Part 1: The Shift-Left Strategy (Prevention over Detection)
+- **Requirement Review**: Review the requirement: *"The app allows users to clear the current entry and preserve the memory."* As a QE Lead involved in the design phase, what questions would you ask the Product Manager and Developers to clarify ambiguity and prevent bugs before a line of code is written?
+- **Developer Enablement**: How would you guide the developers to test their own code? Define a **Testing Pyramid** specifically for this Calculator app. What types of tests belongs in Unit vs. Integration vs. UI? Give concrete examples of what logic should be tested at which layer.
+
+## Part 2: The Quality Pipeline (Process & Automation)
+- **CI/CD Integration**: Sketch or describe a high-level CI/CD pipeline for this app. Where do your automated tests run? What are your "Quality Gates"?
+- **Release Confidence**: Since we are moving away from full manual regression, what signals (metrics, test results, observability) would you need to see to give a "Go" for a release?
+
+## Part 3: Critical Scenarios & BDD
+- **Risk-Based Scenarios**: Identify the top 3-5 "High Risk" areas for a calculator app (areas where a bug would be catastrophic to user trust).
+- **BDD Examples**: Select one complex flow (e.g., Mixing operators with clear entry logic) and write it in Gherkin (Given/When/Then) format. Ensure this is written in a way that could be used as a "Living Documentation" or an executable specification.
 
 ### Notes / Tips
-* Mentioned requirements can work together properly
-* Out of scope
-   * Apple Watch/Mac
-   * Questionable/unclear behaviors
+- **Think Accessibility**: How does your strategy ensure a blind user can calculate a tip correctly?
+- **Think Architecture**: Why is UI automation often considered "flaky," and how will your strategy mitigate that for a calculator?
+- **Tools**: Feel free to mention specific tools (e.g., XCTest, Maestro, Appium, Fastlane) you would recommend to the team.
 
-### Deliverable
-
-You are asked to provide the following:
-1. A document to show the **entry and exit criteria** for QA on this project
-2. **Test cases** that will allow your team to ship an update to the calculator app to the App Store with the necessary confidence (You may use your way of preference to organize your test cases)
-3. Present a few medium complexity test cases in BDD format to prepare automation execution in the future. (You may skip this if you had preference to use BDD format for all the test cases you created)
-
-Please complete the above two tasks as your take-home assignment. We don’t expect you to take longer than **4 hours** to do it. You’re free to choose the format and the tools you believe are necessary to complete the tasks. Feel free to use an additional document to elaborate on your thoughts, if you feel like it is necessary.
-
-### Important Note on AI Tools
-* While we embrace AI tools for productivity in our daily work, for this assessment we ask that you complete the work without using AI tools to generate solutions. This helps us evaluate your foundational skills and problem-solving approach. Limited reference use is acceptable, but please note any AI assistance you do utilize.
-* Submissions that appear to be primarily AI-generated may result in disqualification. We appreciate your understanding as we strive to make the assessment process fair and effective.
-
+## Important Note on AI Tools
+- While we embrace AI tools for productivity in our daily work, for this assessment we ask that you complete the work without using AI tools to generate solutions. This helps us evaluate your foundational skills and problem-solving approach. Limited reference use is acceptable, but please note any AI assistance you do utilize.
+- Submissions that appear to be primarily AI-generated may result in disqualification. We appreciate your understanding as we strive to make the assessment process fair and effective.
